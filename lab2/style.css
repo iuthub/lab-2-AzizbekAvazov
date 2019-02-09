@@ -1,0 +1,35 @@
+
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  background-image: url(background.png);
+}
+
+#happyimg{
+    max-width: 20%;
+    height:auto;
+}
+#angryimg{
+	height: 200px;
+    width: 315px;
+    height:auto;
+}
+
+#title {
+	color: #14C987; 
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.header1{
+	color: #06182C;
+}
+.span1 {
+  font-style: italic;
+}
+.mood {
+ font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
+
+
+
